@@ -6,21 +6,21 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Bring Life Into Your Space",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "Discover our hand-picked selection of potted plants to brighten up every corner of your home or office.",
             "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Explore Plants",
             "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -35,7 +35,8 @@
         "button"
       ],
       "settings": {
-        "image_overlay_opacity": 40,
+       "image":"shopify://shop_images/pexels-elletakesphotos-1549201.jpg",
+        "image_overlay_opacity": 60,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
@@ -52,14 +53,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "",
+            "heading_size": "h2"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Verdura Haven, we believe a little verduraery goes a long way. From easy-care indoor plants to statement pots, each piece is selected to bring joy and freshness to your space. Start your plant journey today!<\/p>"
           }
         }
       },
@@ -77,7 +78,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "Fav favorites",
         "heading_size": "h2",
         "collection": "all",
         "products_to_show": 8,
@@ -100,7 +101,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "Our Plant Picks"
           }
         },
         "product": {
@@ -123,7 +124,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "Our Plant Picks",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
@@ -136,7 +137,7 @@
       "type": "video",
       "settings": {
         "heading": "",
-        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_url": "https://youtu.be/pYNmrnf45Xo",
         "heading_size": "h1",
         "description": "",
         "full_width": false,
@@ -151,8 +152,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Easy Care",
+            "text": "<p>Our plants are perfect for beginners and busy lifestyles alike.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -160,8 +161,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Sustainable Pots",
+            "text": "<p>Beautiful, eco-friendly pots crafted with care<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -169,8 +170,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Fast Delivery",
+            "text": "<p>Get your plants delivered safely to your door in no time.<\/p>",
             "link_label": "",
             "link": ""
           }
